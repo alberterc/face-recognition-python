@@ -27,4 +27,4 @@ cam = cv2.VideoCapture(0)
 - Change which video source to be captured with the program using the code above.
 
 ## Developer
-Albert E (RadX) vradnisntlong@gmail.com
+Albert E (albertenrico.5@gmail.com)
