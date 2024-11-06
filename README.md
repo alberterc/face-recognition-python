@@ -25,6 +25,3 @@ The program uses OpenCV module and the haar cascade classifier for face recognit
 cam = cv2.VideoCapture(0)
 ```
 - Change which video source to be captured with the program using the code above.
-
-## Developer
-Albert E (albertenrico.5@gmail.com)
